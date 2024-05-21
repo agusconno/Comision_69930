@@ -1,0 +1,1 @@
+[{"id":1,"title":"Libro 1","description":"Producto 1","price":20000,"thumbnail":[],"code":"lbr001","stock":20,"category":"libreria","status":true},{"id":2,"title":"se cambio el producto","description":"Producto 2","price":25000,"thumbnail":[],"code":"lbr002","stock":20,"category":"libreria","status":true,"name":"se cambio el producto"}]
